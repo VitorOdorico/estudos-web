@@ -25,6 +25,7 @@ function entrar(){
 function sair(){
     alert("até mais");
     area.innerHTML = "você saiu"
-    
+
     areaBotao = null;
 }
+
